@@ -16,7 +16,7 @@ frigg-worker to detect coverage from test runs. ::
 .. |coverage| image:: https://ci.frigg.io/badges/coverage/frigg/frigg-coverage/
     :target: https://ci.frigg.io/frigg/frigg-coverage/last/
 
-.. |version| image:: https://pypip.in/version/frigg-coverage/badge.svg?style=flat
+.. |version| image:: https://img.shields.io/pypi/v/frigg-coverage.svg?style=flat
     :target: https://pypi.python.org/pypi/frigg-coverage/
     :alt: Latest Version
 
